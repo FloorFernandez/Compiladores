@@ -1,0 +1,7 @@
+int x;
+double y;
+int z = 0;
+double w, q, t;
+int a = 5, b, c = 10;
+double f = 4, t, r = 3;
+while(x < y){ e = 2; }

@@ -1,0 +1,14 @@
+Tabla de Simbolos
+
+Recolecta los identificadores, tipos de datos, funciones, clases, etc., para su uso en la compilacion.
+
+
+Los identificadores se obtienen del analizador lexico.
+
+Los identificadores se buscan en la tabla cuando se lo quiere usar.
+
+Entones, debe tener dos funciones basicas:
+    - Agregar un simbolo
+    - Buscar un simbolo
+
+Posibles colecciones a usar : Vector, List, Map (Dictionary), Set, Pila, Cola.
